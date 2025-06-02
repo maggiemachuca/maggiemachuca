@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/maggiemachuca/">Maggie Machuca's</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/maggiemachuca/">Maggie Machuca</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
 
-## Front-end Development 
+## 💻 Front-end Development 
 
 - **[Visual Guide: TCP Handshake (HTML, CSS, JavaScript)](https://github.com/maggiemachuca/3-Way-Handshake)**
 
