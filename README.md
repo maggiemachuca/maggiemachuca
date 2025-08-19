@@ -6,7 +6,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -16,7 +15,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Visual Guide: TCP Handshake (HTML, CSS, JavaScript)](https://github.com/maggiemachuca/3-Way-Handshake)**
 
+## Certifications
+- **[LPI Linux Essentials](https://www.credly.com/badges/d0de59ed-77c1-461b-b37b-16da83b24a32/public_url)**
+- **[CompTIA A+] expected 11/2025**
+
 <hr/>
+
 
 ## 🤳 Connect With Me
 
