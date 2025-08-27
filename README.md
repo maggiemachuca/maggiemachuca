@@ -17,8 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Certifications
 - **[LPI Linux Essentials](https://www.credly.com/badges/d0de59ed-77c1-461b-b37b-16da83b24a32/public_url)**
-- **[ITIL 4 Foundation]**
-- **[CompTIA A+] expected 11/2025**
+- **ITIL 4 Foundation**
 
 <hr/>
 
