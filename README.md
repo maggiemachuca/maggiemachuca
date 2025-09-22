@@ -22,6 +22,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[LPI Linux Essentials](https://www.credly.com/badges/d0de59ed-77c1-461b-b37b-16da83b24a32/public_url)**
 - **ITIL 4 Foundation**
 
+<h5>Small tidbit:</h3>
+<p>The certs above are the ones I currently have. My goal certifications I plan to get in the future within the next year:</p>
+- CompTIA A+, Network+, Security+, PenTest+, CySA+, CCNA
+
+
 <hr/>
 
 
