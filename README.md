@@ -4,6 +4,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 👩‍💻 Information Technology Projects
 - **[Preparing Active Directory Infrastructure in Azure](https://github.com/maggiemachuca/configure-ad)**
+- **[osTicket: Prerequisites and Installation](https://github.com/maggiemachuca/osticket-prereqs)**
 
 ## ⚠️ Vulnerability Management Projects
 
