@@ -1,6 +1,11 @@
 # <a href="https://www.linkedin.com/in/maggiemachuca/">Maggie Machuca</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I'm passionate about IT and Cybersecurity and thrive on solving real-world challenges through hands-on, technical projects. I enjoy diving into the evolving security landscape and finding ways to strengthen systems and processes.
+
+My portfolio showcases a range of IT and security projects: from infrastructure setup, ticketing workflows, to front-end tools that visualize core networking concepts. These projects reflect my commitment to learning, as well as my drive to enhance security operations through practical experience.
+
+I'm also actively building my knowledge through industry-recognized certifications. Below, you'll find both completed certifications and those I’m currently pursuing.
+
 
 ## 👩‍💻 Information Technology Projects
 <ins>Active Directory</ins>
@@ -9,6 +14,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <ins>Ticketing System and Ticket Lifecycle</ins>
 - **[osTicket: Prerequisites and Installation](https://github.com/maggiemachuca/osticket-prereqs)**
 - **[osTicket: Post-Installation Configuration](https://github.com/maggiemachuca/osticket-post-install-config)**
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/maggiemachuca/ticket-lifecycle)**
 
 ## ⚠️ Vulnerability Management Projects
 
@@ -26,9 +32,17 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[LPI Linux Essentials](https://www.credly.com/badges/d0de59ed-77c1-461b-b37b-16da83b24a32/public_url)**
 - **ITIL 4 Foundation**
 
-<h5>Small tidbit:</h3>
-<p>The certs above are the ones I currently have. My goal certifications I plan to get in the future within the next year:</p>
-- CompTIA A+, Network+, Security+, PenTest+, CySA+, CCNA
+
+## Certifications (in-progress)
+**CompTIA**
+- **A+ Core 1 & Core 2** estimated October 2025
+- **Network+** estimated December 2025
+- **Security+** estimated January 2025
+- **PenTest+**
+- **CySA+**
+
+**Cisco**
+- **CCNA**
 
 
 <hr/>
