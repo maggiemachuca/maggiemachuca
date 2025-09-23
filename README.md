@@ -8,7 +8,7 @@ I'm also actively building my knowledge through industry-recognized certificatio
 
 
 ## 👩‍💻 Information Technology Projects
-<ins>Active Directory</ins>
+<ins>Microsoft Azure</ins>
 - **[Preparing Active Directory Infrastructure in Azure](https://github.com/maggiemachuca/configure-ad)**
 
 <ins>Ticketing System and Ticket Lifecycle</ins>
