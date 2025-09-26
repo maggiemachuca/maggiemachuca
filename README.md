@@ -19,6 +19,9 @@ I'm also actively building my knowledge through industry-recognized certificatio
 - **[osTicket: Post-Installation Configuration](https://github.com/maggiemachuca/osticket-post-install-config)**
 - **[osTicket: Ticket Lifecycle Examples](https://github.com/maggiemachuca/ticket-lifecycle)**
 
+<ins>Virtual Private Network</ins>
+- **[VPN Tunnel Demonstration Using Azure VM](https://github.com/maggiemachuca/vpn-config)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program)**
