@@ -12,6 +12,7 @@ I'm also actively building my knowledge through industry-recognized certificatio
 - **[Preparing Active Directory Infrastructure in Azure](https://github.com/maggiemachuca/azure-prep-for-ad)**
 - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/maggiemachuca/configure-ad/)**
 - **[Group Policy Management: Account Lockout Policies, User Management, and Event Log Auditing](https://github.com/maggiemachuca/configure-gpo)**
+- **[Network File Shares and Permissions](https://github.com/maggiemachuca/network-file-shares-perms)**
 
 <ins>Ticketing System and Ticket Lifecycle</ins>
 - **[osTicket: Prerequisites and Installation](https://github.com/maggiemachuca/osticket-prereqs)**
