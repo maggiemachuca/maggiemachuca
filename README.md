@@ -6,6 +6,13 @@ My portfolio showcases a range of IT and security projects: from infrastructure 
 
 I'm also actively building my knowledge through industry-recognized certifications. Below, you'll find both completed certifications and those I’m currently pursuing.
 
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/maggiemachuca/threat-hunting-scenario-tor/)**
 
 ## 👩‍💻 Information Technology Projects
 <ins>Microsoft Azure & Active Directory</ins>
@@ -21,14 +28,6 @@ I'm also actively building my knowledge through industry-recognized certificatio
 
 <ins>Virtual Private Network</ins>
 - **[VPN Tunnel Demonstration Using Azure VM](https://github.com/maggiemachuca/vpn-config)**
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/maggiemachuca/threat-hunting-scenario-tor/)**
 
 ## 💻 Front-end Development 
 
