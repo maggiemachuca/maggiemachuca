@@ -9,6 +9,7 @@ I'm also actively building my knowledge through industry-recognized certificatio
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program)**
+- **[Vulnerability Remediation on Windows 10 Using Nessus & PowerShell (NIST 800-53, RMF Aligned)](https://github.com/maggiemachuca/vr-compliance-nist)**
 
 ## 🚨 Threat Hunting and Security Operations
 
