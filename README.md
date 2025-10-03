@@ -8,27 +8,27 @@ I'm also actively building my knowledge through industry-recognized certificatio
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program)**
-- **[Vulnerability Remediation on Windows 10 Using Nessus, PowerShell & Ubuntu Server (NIST 800-53, RMF Aligned)](https://github.com/maggiemachuca/vr-compliance-nist)**
+- **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program/blob/main/README.md)**
+- **[Vulnerability Remediation on Windows 10 Using Nessus, PowerShell & Ubuntu Server (NIST 800-53, RMF Aligned)](https://github.com/maggiemachuca/vr-compliance-nist/blob/main/README.md)**
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/maggiemachuca/threat-hunting-scenario-tor/)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/maggiemachuca/threat-hunting-scenario-tor/blob/main/README.md)**
 
 ## 👩‍💻 Information Technology Projects
 <ins>Microsoft Azure & Active Directory</ins>
-- **[Preparing Active Directory Infrastructure in Azure](https://github.com/maggiemachuca/azure-prep-for-ad)**
-- **[Configuring On-premises Active Directory within Azure VMs](https://github.com/maggiemachuca/configure-ad/)**
-- **[Group Policy Management: Account Lockout Policies, User Management, and Event Log Auditing](https://github.com/maggiemachuca/configure-gpo)**
-- **[Network File Shares and Permissions](https://github.com/maggiemachuca/network-file-shares-perms)**
+- **[Preparing Active Directory Infrastructure in Azure](https://github.com/maggiemachuca/azure-prep-for-ad/blob/main/README.md)**
+- **[Configuring On-premises Active Directory within Azure VMs](https://github.com/maggiemachuca/configure-ad/blob/main/README.md)**
+- **[Group Policy Management: Account Lockout Policies, User Management, and Event Log Auditing](https://github.com/maggiemachuca/configure-gpo/blob/main/README.md)**
+- **[Network File Shares and Permissions](https://github.com/maggiemachuca/network-file-shares-perms/blob/main/README.md)**
 
 <ins>Ticketing System and Ticket Lifecycle</ins>
-- **[osTicket: Prerequisites and Installation](https://github.com/maggiemachuca/osticket-prereqs)**
-- **[osTicket: Post-Installation Configuration](https://github.com/maggiemachuca/osticket-post-install-config)**
-- **[osTicket: Ticket Lifecycle Examples](https://github.com/maggiemachuca/ticket-lifecycle)**
+- **[osTicket: Prerequisites and Installation](https://github.com/maggiemachuca/osticket-prereqs/blob/main/README.md)**
+- **[osTicket: Post-Installation Configuration](https://github.com/maggiemachuca/osticket-post-install-config/blob/main/README.md)**
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/maggiemachuca/ticket-lifecycle/blob/main/README.md)**
 
 <ins>Virtual Private Network</ins>
-- **[VPN Tunnel Demonstration Using Azure VM](https://github.com/maggiemachuca/vpn-config)**
+- **[VPN Tunnel Demonstration Using Azure VM](https://github.com/maggiemachuca/vpn-config/blob/main/README.md)**
 
 ## 💻 Front-end Development 
 
@@ -41,7 +41,7 @@ I'm also actively building my knowledge through industry-recognized certificatio
 
 ## Certifications (in-progress)
 **CompTIA**
-- **A+ Core 1 & Core 2** estimated October 2025
+- **A+ Core 1 & Core 2** estimated November 2025
 - **Network+** estimated December 2025
 - **Security+** estimated January 2025
 - **PenTest+**
