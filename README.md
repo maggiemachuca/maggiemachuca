@@ -37,11 +37,11 @@ I'm also actively building my knowledge through industry-recognized certificatio
 ## Certifications
 - **[LPI Linux Essentials](https://www.credly.com/badges/d0de59ed-77c1-461b-b37b-16da83b24a32/public_url)**
 - **ITIL 4 Foundation**
+- **CompTIA A+**
 
 
 ## Certifications (in-progress)
 **CompTIA**
-- **A+ Core 1 & Core 2** estimated November 2025
 - **Network+** estimated December 2025
 - **Security+** estimated January 2025
 - **PenTest+**
