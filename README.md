@@ -6,6 +6,9 @@ My portfolio showcases a range of IT and security projects: from infrastructure 
 
 I'm also actively building my knowledge through industry-recognized certifications. Below, you'll find both completed certifications and those I’m currently pursuing.
 
+## 💾 IT Support Projects 
+- **[Support Engineer Toolkit](https://github.com/maggiemachuca/onsite-support-engineer-toolkit/blob/main/README.md)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/maggiemachuca/vulnerability-management-program/blob/main/README.md)**
@@ -15,7 +18,7 @@ I'm also actively building my knowledge through industry-recognized certificatio
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/maggiemachuca/threat-hunting-scenario-tor/blob/main/README.md)**
 
-## 👩‍💻 Information Technology Projects
+## 👩‍💻 TECHNICAL DEMOS: Information Technology Projects
 <ins>Microsoft Azure & Active Directory</ins>
 - **[Preparing Active Directory Infrastructure in Azure](https://github.com/maggiemachuca/azure-prep-for-ad/blob/main/README.md)**
 - **[Configuring On-premises Active Directory within Azure VMs](https://github.com/maggiemachuca/configure-ad/blob/main/README.md)**
