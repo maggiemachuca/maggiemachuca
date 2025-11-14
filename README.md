@@ -6,8 +6,6 @@ My portfolio showcases a range of IT and security projects: from infrastructure 
 
 I'm also actively building my knowledge through industry-recognized certifications. Below, you'll find both completed certifications and those I’m currently pursuing.
 
-## 💾 IT Support Projects 
-- **[Support Engineer Toolkit](https://github.com/maggiemachuca/onsite-support-engineer-toolkit/blob/main/README.md)**
 
 ## ⚠️ Vulnerability Management Projects
 
